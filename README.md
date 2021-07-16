@@ -4,11 +4,13 @@
 > ## The ASSociation of accountants and Financial Professionals In Business [IMA ](https://imalc.mycrowdwisdom.com/diweb/mylearning/)
 
 
+.
+
 
 ##  [Statement of Cash Flows ](https://imalc.mycrowdwisdom.com/diweb/catalog/cert/view/1/id/986f9536-79fd-483a-8ff9-c2f4cfdebfb2)
  
  
-### About this Course :
+> ### About this Course :
 
 
 This tutorial clearly illustrates a step-by-step process for creating a Statement of Cash Flows using either the Direct or Indirect method. 
