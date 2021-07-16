@@ -18,7 +18,7 @@ This tutorial clearly illustrates a step-by-step process for creating a Statemen
 
 
 
-### In this course, you will learn:
+> ### In this course, you will learn:
 
 
 
