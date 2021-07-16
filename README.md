@@ -30,15 +30,13 @@ This tutorial clearly illustrates a step-by-step process for creating a Statemen
 
  
  
- .
- 
- > !![ima](https://user-images.githubusercontent.com/36210723/101286968-4b50c880-37f6-11eb-9466-ed7519dcf830.png)
+.
 
+![Statement of Cash Flows Tutorial](https://user-images.githubusercontent.com/36210723/125935674-99c9051f-6969-452a-83a4-efeee606c199.png)
 
 .
 
 ----------------------------------------
-
 
 
 
